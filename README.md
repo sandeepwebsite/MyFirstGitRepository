@@ -16,7 +16,7 @@ Add & Commited
     * to add all files at a time
         git add .
 Push Command
-    push- upload loacl repo content to remote repo
+    push- upload loacal repo content to remote repo
         git push origin main
 Work Flow
     Github Repo
@@ -27,3 +27,8 @@ Work Flow
     push
 
 Git Branches
+    git branch (to check branch)
+    git branch -M main (to rename branch)
+    git checkout <-branch name-> (to navigate)
+    git checkout -b <-new branch name-> (to crreate new branch)
+    git branch -d <-branch name-> (to delete branch)

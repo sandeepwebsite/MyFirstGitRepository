@@ -2,7 +2,7 @@
 Hi this is my first Git repository
 I love to code.
 git ls > list of files
-git clone git link > copy repository from github
+git clone link > copy repository from github
 git status >
     untracked--new files added
     modified--changed

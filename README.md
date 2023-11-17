@@ -18,4 +18,12 @@ Add & Commited
 Push Command
     push- upload loacl repo content to remote repo
         git push origin main
-    
+Work Flow
+    Github Repo
+    clone
+    changes
+    add
+    commit
+    push
+
+Git Branches
